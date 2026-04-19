@@ -7,4 +7,6 @@ public class Serveur {
         Endpoint.publish("http://localhost:8080/CommandeWS", new Commande_Service());
         System.out.println("Web Service démarré sur http://localhost:8080/CommandeWS?wsdl");
     }
+
+
 }
