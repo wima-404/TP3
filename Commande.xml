@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<commande id="1">
+    <Date_Achat>12/03/2026</Date_Achat>
+    <Nom_Client>Wiam belkentaoui</Nom_Client>
+    <Produits>
+        <produit id="1">
+            <Nom>Ordinateur</Nom>
+            <Prix_Produit>5000.0</Prix_Produit>
+        </produit>
+        <produit id="2">
+            <Nom>Tablet</Nom>
+            <Prix_Produit>3000.0</Prix_Produit>
+        </produit>
+    </Produits>
+</commande>
